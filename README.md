@@ -1,6 +1,7 @@
 # Basic-Portfolio
 Alvaro Lopes Basic-Portfolio
 # Recommended Assignment - That Portfolio Though
+live version : https://alvie40.github.io/Basic-Portfolio/index.html
 
 ## Overview
 
